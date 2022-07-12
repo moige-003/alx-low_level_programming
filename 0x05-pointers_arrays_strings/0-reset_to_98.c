@@ -6,7 +6,7 @@
 * @n: pointer to an int
 * Return: Nothing
 */
- 
+
 void reset_to_98(int *n)
 
 {
