@@ -44,7 +44,5 @@ if (flag == 0)
 return (c);
 
 }
-
-
 return (0);
 }
